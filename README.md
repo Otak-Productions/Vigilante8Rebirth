@@ -24,6 +24,34 @@ My intention is to make this port 100% modifiable, where the community can contr
 #### Third Step:
 1. Integrate plugins for Mods (XLua or some other framework) in Maps, Vehicles, Events.
 
+### Dependencies / Requirements
+
+- **Engine**: Unity 2021.2.19f1
+- **Assets**: PSXEffect, Rewired
+- **Source File Game**: Vigilante 8 Second Offense (USA) Playstation
+
+### How to Build
+
+To build this project, follow these steps:
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/Otak-Productions/Vigilante8Rebirth.git
+    cd Vigilante2Unity
+    ```
+
+2. Open the project in Unity:
+    - Ensure you have the correct version of Unity installed (the version used in the original project or the version you plan to migrate to).
+    - Open Unity Hub, click on "Add", and select the cloned project directory.
+
+3. Resolve dependencies:
+    - Make sure all necessary packages and dependencies are installed via the Unity Package Manager.
+
+4. Build the project:
+    - Go to `File > Build Settings`.
+    - Select your target platform and configure build settings as needed.
+    - Click on "Build" to generate the executable.
+
 ### Contributing
 
 We welcome contributions from the community! Please feel free to fork this repository, make your changes, and submit a pull request. Make sure to follow the contribution guidelines outlined in the CONTRIBUTING.md file.
@@ -35,6 +63,10 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 ### Disclaimer
 
 This project is not affiliated with, endorsed by, or in any way connected to the original creators of Vigilante 8 or its licensors. All trademarks and copyrights are the property of their respective owners.
+
+### Credits
+
+Original project by Stefan Vranjes. Visit the [Vigilante2Unity](https://github.com/stefanvranjes/Vigilante2Unity) for more information.
 
 ---
 
@@ -60,6 +92,34 @@ Mi intención es poder hacer que este puerto sea 100% modificable, en donde la c
 #### Tercer Paso:
 1. Integrar complementos para Mods (XLua o algún otro framework) en Mapas, Vehículos, Eventos.
 
+### Dependencias / Requisitos
+
+- **Engine**: Unity 2021.2.19f1
+- **Assets**: PSXEffect, Rewired
+- **Source File Game**: Vigilante 8 Second Offense (USA) Playstation
+
+### Cómo Construir
+
+Para construir este proyecto, sigue estos pasos:
+
+1. Clona el repositorio:
+    ```sh
+    git clone https://github.com/Otak-Productions/Vigilante8Rebirth.git
+    cd Vigilante2Unity
+    ```
+
+2. Abre el proyecto en Unity:
+    - Asegúrate de tener instalada la versión correcta de Unity (la versión utilizada en el proyecto original o la versión a la que planeas migrar).
+    - Abre Unity Hub, haz clic en "Add" y selecciona el directorio del proyecto clonado.
+
+3. Resuelve las dependencias:
+    - Asegúrate de que todos los paquetes y dependencias necesarios estén instalados a través del Unity Package Manager.
+
+4. Construye el proyecto:
+    - Ve a `File > Build Settings`.
+    - Selecciona tu plataforma de destino y configura los ajustes de compilación según sea necesario.
+    - Haz clic en "Build" para generar el ejecutable.
+
 ### Contribuir
 
 ¡Damos la bienvenida a las contribuciones de la comunidad! No dudes en hacer un fork de este repositorio, realizar tus cambios y enviar un pull request. Asegúrate de seguir las pautas de contribución descritas en el archivo CONTRIBUTING.md.
@@ -71,3 +131,7 @@ Este proyecto está licenciado bajo la Licencia Creative Commons Attribution-Non
 ### Aviso Legal
 
 Este proyecto no está afiliado, respaldado ni de ninguna manera relacionado con los creadores originales de Vigilante 8 o sus licenciantes. Todas las marcas comerciales y derechos de autor son propiedad de sus respectivos dueños.
+
+### Créditos
+
+Proyecto original por Stefan Vranjes. Visita la [Vigilante2Unity](https://github.com/stefanvranjes/Vigilante2Unity) para más información.
