@@ -37,7 +37,6 @@ To build this project, follow these steps:
 1. Clone the repository:
     ```sh
     git clone https://github.com/Otak-Productions/Vigilante8Rebirth.git
-    cd Vigilante2Unity
     ```
 
 2. Open the project in Unity:
@@ -105,7 +104,6 @@ Para construir este proyecto, sigue estos pasos:
 1. Clona el repositorio:
     ```sh
     git clone https://github.com/Otak-Productions/Vigilante8Rebirth.git
-    cd Vigilante2Unity
     ```
 
 2. Abre el proyecto en Unity:
