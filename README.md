@@ -30,6 +30,11 @@ My intention is to make this port 100% modifiable, where the community can contr
 - **Assets**: PSXEffect, Rewired
 - **Source File Game**: Vigilante 8 Second Offense (USA) Playstation
 
+#### Unity Packages:
+- Unity UI
+- Mathematics
+- Visual Studio Editor (Alternative)
+
 ### How to Build
 
 To build this project, follow these steps:
@@ -96,6 +101,11 @@ Mi intención es poder hacer que este puerto sea 100% modificable, en donde la c
 - **Engine**: Unity 2021.2.19f1
 - **Assets**: PSXEffect, Rewired
 - **Source File Game**: Vigilante 8 Second Offense (USA) Playstation
+
+#### Paquetes de Unity:
+- Unity UI
+- Mathematics
+- Visual Studio Editor (Alternative)
 
 ### Cómo Construir
 
