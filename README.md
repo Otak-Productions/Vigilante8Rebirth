@@ -34,6 +34,10 @@ My intention is to make this port 100% modifiable, where the community can contr
 - Unity UI
 - Mathematics
 - Visual Studio Editor (Alternative)
+- [UnitySimplePatchTool](https://github.com/yasirkula/UnitySimplePatchTool)
+- [SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI)
+- [UIEffect](https://github.com/mob-sakai/UIEffect)
+- [unity-camera-viewport-rect](https://github.com/gilzoide/unity-camera-viewport-rect.git#1.0.1)
 
 ### How to Build
 
@@ -106,6 +110,10 @@ Mi intención es poder hacer que este puerto sea 100% modificable, en donde la c
 - Unity UI
 - Mathematics
 - Visual Studio Editor (Alternative)
+- [UnitySimplePatchTool](https://github.com/yasirkula/UnitySimplePatchTool)
+- [SoftMaskForUGUI](https://github.com/mob-sakai/SoftMaskForUGUI)
+- [UIEffect](https://github.com/mob-sakai/UIEffect)
+- [unity-camera-viewport-rect](https://github.com/gilzoide/unity-camera-viewport-rect.git#1.0.1)
 
 ### Cómo Construir
 
