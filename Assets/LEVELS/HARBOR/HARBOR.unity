@@ -12059,7 +12059,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 98}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 089f8d2a8955dff0ad0c359b06928083, type: 3}
+  m_Script: {fileID: 11500000, guid: 2b416fbce5a38cc47a3a1e709f95f5e3, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   cfuStatus: Checking for updates...
