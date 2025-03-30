@@ -2,8 +2,8 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!1045 &1
 EditorBuildSettings:
-  serializedVersion: 2
   m_ObjectHideFlags: 0
+  serializedVersion: 2
   m_Scenes:
   - enabled: 1
     path: Assets/Menus/Launch.unity
@@ -83,9 +83,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Menus/Menu.unity
     guid: bf20109050970e342aace69c88cb6041
+  - enabled: 0
+    path: Assets/DUMMY_.unity
+    guid: cfdf76a6b9aa8ea4f849230ad9e6fd25
   - enabled: 1
     path: Assets/DUMMY.unity
-    guid: cfdf76a6b9aa8ea4f849230ad9e6fd25
+    guid: a1a21165c2d5d2945832ca6b295af219
   - enabled: 1
     path: Assets/Menus/MP.unity
     guid: a003ecb21c931b1428781dd146d061e3
@@ -95,4 +98,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Menus/Player.unity
     guid: addd7cf3f60f5bb48bb40f13952e685f
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 8bb83fc85a3e2f94aa4b840e971a4e5a, type: 2}
