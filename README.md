@@ -130,6 +130,10 @@ Para construir este proyecto, sigue estos pasos:
 
 3. Resuelve las dependencias:
     - Asegúrate de que todos los paquetes y dependencias necesarios estén instalados a través del Unity Package Manager.
+    - Necesita v4 Compatible Component de UIEffect para resolver conflictos con este Package. Asegurate de Importarlo al Proyecto
+      ![image](https://github.com/user-attachments/assets/67263af3-58e6-4adf-9efe-b8d20a0ff19a)
+    - 
+
 
 4. Construye el proyecto:
     - Ve a `File > Build Settings`.
