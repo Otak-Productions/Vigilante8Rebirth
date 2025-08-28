@@ -2,101 +2,97 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!1045 &1
 EditorBuildSettings:
-  m_ObjectHideFlags: 0
   serializedVersion: 2
+  m_ObjectHideFlags: 0
   m_Scenes:
   - enabled: 1
     path: Assets/Menus/Launch.unity
-    guid: f0068aecc12f2f34593596e3031261f2
+    guid: c53a376c02ba1874b8b040f1819ca567
   - enabled: 1
     path: Assets/LEVELS/ROUTE66/ROUTE66.unity
-    guid: c1d5fcbce5ebc9045868882b849fb46f
+    guid: 6381ab6387a83b84db9791ee384c52a6
   - enabled: 1
     path: Assets/LEVELS/OLYMPIC/OLYMPIC.unity
-    guid: 7924e383d1a2e9547a15152c14cfa461
+    guid: 3118befbb766ecc45a6feb8d98a3de89
   - enabled: 1
     path: Assets/LEVELS/BAYOU/BAYOU.unity
-    guid: fc0d34460fb3da6439c5987f597e15c8
+    guid: 08b92f06e0c375744acf0db65c6fad8c
   - enabled: 1
     path: Assets/LEVELS/LAUNCH/LAUNCH.unity
-    guid: 3007b23a7e9d3b841a0831062665f69a
+    guid: 6098ea5e4edfb9941993d19f7a0e6949
   - enabled: 1
     path: Assets/LEVELS/STEELMIL/STEELMIL.unity
-    guid: 7dfe085465b03fd45be2ad4dad95df75
+    guid: 922a9dc40f4766a4c9186d75fa17ef52
   - enabled: 1
     path: Assets/LEVELS/NUCLEAR/NUCLEAR.unity
-    guid: b916c7018d679b54fa77ebd1b7a9512e
+    guid: 6ba2dc218c1142041864144c740e7896
   - enabled: 1
     path: Assets/LEVELS/OILFIELD/OILFIELD.unity
-    guid: a1d939e4d30bc7a49b7f11de7c7fde7e
+    guid: ea61ca53d8fb0e248bd5a4110fc248a5
   - enabled: 1
     path: Assets/LEVELS/HARBOR/HARBOR.unity
-    guid: 67c0043d3b8f4eb43baff24e7ac2cead
+    guid: 4923aa66bd4d0c149a9439c8f9324198
   - enabled: 1
     path: Assets/LEVELS/V8/OILFIELD/OILFIELD2.unity
-    guid: 12f81e1a08d26604e9721402a9afcf0d
+    guid: a9e19b7409b835b4181b007627bb7f67
   - enabled: 1
     path: Assets/LEVELS/V8/AIRGRAVE/AIRGRAVE.unity
-    guid: 9443f23a01f6c0844912aed145ecbf11
+    guid: 270b32f884089e14fa3ea63599709417
   - enabled: 1
     path: Assets/LEVELS/V8/WILDWEST/WILDWEST.unity
-    guid: 81e2b041eb89d8942991d6997ba077c3
+    guid: 63ec23f78b046ed42a35e1b4bf3c79bb
   - enabled: 1
     path: Assets/LEVELS/V8/HOOVRDAM/HOOVRDAM.unity
-    guid: ffd34edd8cb8ab34085e7e95f192042c
+    guid: 9e357b783b254fc4bb3c0e43446e23b3
   - enabled: 1
     path: Assets/LEVELS/V8/VALLYFRM/VALLYFRM.unity
-    guid: b4fdfe1da8d31e545b410f33cd98ef7d
+    guid: b63a23f2393a8734eb7ce3ea2c97f69f
   - enabled: 1
     path: Assets/LEVELS/V8/CASNOCTY/CASNOCTY.unity
-    guid: d290a3a594074334c87af8c4d6f591bf
+    guid: 170efa2d38088ad4fa8591396ff6b48f
   - enabled: 1
     path: Assets/LEVELS/V8/CANYNLND/CANYNLND.unity
-    guid: 0fedc7f0833f17947a332c100624b2c0
+    guid: a84ad9964a07a6d4091a523ed09c885a
   - enabled: 1
     path: Assets/LEVELS/V8/SKIRESRT/SKIRESRT.unity
-    guid: 443b324726cdd6f4f8644a226526cfaf
+    guid: 98adc33452438ac48b7cc6e1399a4983
   - enabled: 1
     path: Assets/LEVELS/V8/SCRTBASE/SCRTBASE.unity
-    guid: 79ae96598b7bd7f4a881fc72c2885637
+    guid: 8dd9baff16441bb40b6c9e8f4311cc32
   - enabled: 1
     path: Assets/LEVELS/V8/SANDFACT/SANDFACT.unity
-    guid: dc2d75a3482517a48a80b3021e681417
+    guid: 2704e86fc4e96554d9d57f4a5e189b46
   - enabled: 1
     path: Assets/LEVELS/V8/DREAMLND/DREAMLND.unity
-    guid: 4ab8761851fb44440bc81f9fcd5a69d3
+    guid: 0d59530b245b40a40a311fa879183842
   - enabled: 1
     path: Assets/SHARED/UI.unity
-    guid: ffaad4a6375fd254098a41d762a5b6fc
+    guid: 0485b7bf7e47c1a4eb58a07c1ce09ca2
   - enabled: 1
     path: Assets/SHARED/Load.unity
-    guid: 54e3d746ff128f94cb945178bd6cf557
+    guid: 011d6dbf2ec59584cbc069a5a431217d
   - enabled: 1
     path: Assets/Menus/Begin.unity
-    guid: 4790936a83108d648aca589fc8a53a04
+    guid: d591acfd25f89df42aa2892506bccc5a
   - enabled: 1
     path: Assets/Menus/Production.unity
-    guid: 1ba6c91a5f7d4694485d20877a652724
+    guid: 93f402f642abc2c45b7f8cf629e427ac
   - enabled: 1
     path: Assets/Menus/Title.unity
-    guid: 38f953148447d754d8bea674b9e858e3
+    guid: 49c5490e4663235448d7834d51410e44
   - enabled: 1
     path: Assets/Menus/Menu.unity
-    guid: bf20109050970e342aace69c88cb6041
-  - enabled: 0
-    path: Assets/DUMMY_.unity
-    guid: cfdf76a6b9aa8ea4f849230ad9e6fd25
+    guid: 535950f175c686a4498c0a0ab032ece5
   - enabled: 1
     path: Assets/DUMMY.unity
-    guid: a1a21165c2d5d2945832ca6b295af219
+    guid: eb6736e5fab8fce4ea3046856b962b3a
   - enabled: 1
     path: Assets/Menus/MP.unity
-    guid: a003ecb21c931b1428781dd146d061e3
+    guid: c4547ef04f6bb3c48adcfa7ea1efc84a
   - enabled: 1
     path: Assets/Menus/Credits.unity
-    guid: c8f6b95f20e50724f9841a26227d20c5
+    guid: 781eefc89f70c374f97a84856ba8bf51
   - enabled: 1
     path: Assets/Menus/Player.unity
-    guid: addd7cf3f60f5bb48bb40f13952e685f
-  m_configObjects:
-    com.unity.addressableassets: {fileID: 11400000, guid: 8bb83fc85a3e2f94aa4b840e971a4e5a, type: 2}
+    guid: 18620c2490ffda243963468d7504cdbd
+  m_configObjects: {}
