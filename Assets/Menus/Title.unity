@@ -21565,7 +21565,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 22}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: edf2702e986745c52e5dbef6f03b093f, type: 3}
+  m_Script: {fileID: 11500000, guid: 8685e8ca22f013647a6f0a038976e22f, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   AddQueue: 1
@@ -21578,7 +21578,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 16}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7169882156bc4fb0f393cd3c973eda20, type: 3}
+  m_Script: {fileID: 11500000, guid: a96abab29bf77114f9ed2b317a279eae, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   LightCurve:
@@ -21643,7 +21643,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 21}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: edf2702e986745c52e5dbef6f03b093f, type: 3}
+  m_Script: {fileID: 11500000, guid: 8685e8ca22f013647a6f0a038976e22f, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   AddQueue: 2
