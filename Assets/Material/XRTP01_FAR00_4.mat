@@ -7,20 +7,22 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SpriteMat
-  m_Shader: {fileID: 4800000, guid: cc2ffc9a614b6d04b83808e9875d226f, type: 3}
-  m_ValidKeywords: []
+  m_Name: XRTP01_FAR00_4
+  m_Shader: {fileID: 4800000, guid: 0a87cbed58af2744799563e803947e2d, type: 3}
+  m_ValidKeywords:
+  - BFC
+  - TRANSPARENT
   m_InvalidKeywords:
-  - _COLORONLY_ON
+  - _ALPHABLEND_ON
   - _DIFFMODEL_VERTEX
   - _SPECMODEL_GOURAUD
   - _UNLIT_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2000
+  m_CustomRenderQueue: 3000
   stringTagMap:
-    RenderType: Opaque
+    RenderType: Transparent
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
@@ -32,15 +34,15 @@ Material:
     - _Emission:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 2.7295136, y: 0}
+        m_Offset: {x: 0, y: 0}
     - _LODTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: cdd52c95f090bbe47b62c7908d1ca3a0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 31b2c6c034ec0f64cb684c593be61c5e, type: 3}
         m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0.9947428, y: 0}
+        m_Offset: {x: 0, y: 0}
     - _MetalMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -55,28 +57,26 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - PixelSnap: 0
     - _BlendOp: 0
     - _BumpScale: 1
-    - _ColorOnly: 1
-    - _Cul: 0
+    - _ColorOnly: 0
+    - _Cul: 2
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DiffModel: 0
     - _DrawDist: 0
-    - _DstBlend: 0
+    - _DstBlend: 10
     - _EmissionAmt: 0
-    - _EnableExternalAlpha: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _LODAmt: 0
+    - _LODAmt: 400
     - _Metallic: 0
     - _Mode: 0
     - _NormalMapDepth: 1
     - _OcclusionStrength: 1
-    - _OffsetFactor: -1
-    - _OffsetUnits: -1
+    - _OffsetFactor: 1
+    - _OffsetUnits: 1
     - _Parallax: 0.02
     - _RenderMode: 0
     - _Smoothness: 0.5
@@ -84,14 +84,12 @@ Material:
     - _SpecModel: 0
     - _Specular: 0
     - _SpecularHighlights: 1
-    - _SrcBlend: 1
+    - _SrcBlend: 5
     - _UVSec: 0
     - _Unlit: 1
     - _VertexInaccuracy: -1
-    - _ZWrite: 1
+    - _ZWrite: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Flip: {r: 1, g: 1, b: 1, a: 1}
-    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
