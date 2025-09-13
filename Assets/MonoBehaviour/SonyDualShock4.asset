@@ -11,10 +11,10 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 323110133, guid: 09c9b883b79ef864a99683bb36c5776d, type: 3}
   m_Name: SonyDualShock4
-  m_EditorClassIdentifier:
+  m_EditorClassIdentifier: 
   controllerName: Sony DualShock 4
-  editorControllerName:
-  description:
+  editorControllerName: 
+  description: 
   controllerGuid: cd9718bf-a87a-44bc-8716-60a0def28a9f
   templateGuids:
   - 83b427e4-086f-47f3-bb06-be266abd1ca5
@@ -47,122 +47,122 @@ MonoBehaviour:
     _compoundElementType: 0
   - _id: 6
     _name: Cross
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 7
     _name: Circle
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 8
     _name: Square
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 9
     _name: Triangle
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 10
     _name: L1
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 4
     _name: L2
     _positiveName: L2
-    _negativeName:
+    _negativeName: 
     _elementType: 0
     _compoundElementType: 0
   - _id: 11
     _name: R1
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 5
     _name: R2
     _positiveName: R2
-    _negativeName:
+    _negativeName: 
     _elementType: 0
     _compoundElementType: 0
   - _id: 12
     _name: Share
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 13
     _name: Options
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 14
     _name: PS Button
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 15
     _name: Touchpad Button
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 16
     _name: Left Stick Button
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 17
     _name: Right Stick Button
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 18
     _name: D-Pad Up
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 19
     _name: D-Pad Right
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 20
     _name: D-Pad Down
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 21
     _name: D-Pad Left
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 1
     _compoundElementType: 0
   - _id: 22
     _name: Left Stick
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 100
     _compoundElementType: 0
   - _id: 23
     _name: Right Stick
-    _positiveName:
-    _negativeName:
+    _positiveName: 
+    _negativeName: 
     _elementType: 100
     _compoundElementType: 0
   compoundElements:
@@ -173,23 +173,23 @@ MonoBehaviour:
     elementIdentifier: 23
     componentElementIdentifiers: 0200000003000000
   directInput:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 6
       buttonCount: 14
       disabled: 0
-      tag:
+      tag: 
       hatCount: 1
       alternateElementCounts: []
       productName_useRegex: 0
       productName:
       - Wireless Controller
-      - DUALSHOCK®4 USB Wireless Adaptor
+      - "DUALSHOCK\xAE4 USB Wireless Adaptor"
       productGUID:
       - 05c4054c
       - 0ba0054c
       - 09cc054c
-      productId:
+      productId: 
       deviceType: 24
     elements:
       axes:
@@ -344,9 +344,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -362,9 +362,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -380,9 +380,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -398,9 +398,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -416,9 +416,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -434,9 +434,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -452,9 +452,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -470,9 +470,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -488,9 +488,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -506,9 +506,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -524,9 +524,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -542,9 +542,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -560,9 +560,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -578,9 +578,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 1
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -596,9 +596,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 2
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -614,9 +614,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 3
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -632,9 +632,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 3
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -650,56 +650,74 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 3
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
     variants: []
   rawInput:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       hatCount: 0
       alternateElementCounts: []
       productName_useRegex: 0
       productName: []
       productGUID: []
-      productId:
+      productId: 
       deviceType: 0
     elements:
       axes: []
       buttons: []
     variants: []
   xInput:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
-      subType:
+      tag: 
+      subType: 
     elements:
       axes: []
       buttons: []
     variants: []
+  windowsWGI:
+    description: 
+    matchingCriteria:
+      axisCount: 0
+      buttonCount: 0
+      disabled: 0
+      tag: 
+      alwaysMatch: 0
+      productName_useRegex: 0
+      productName: []
+      vidPid: []
+      deviceType: 0
+      hatCount: 0
+    elements:
+      axes: []
+      buttons: []
+    controllerName: 
+    variants: []
   osx:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 6
       buttonCount: 14
       disabled: 0
-      tag:
+      tag: 
       hatCount: 1
       alternateElementCounts: []
       productName_useRegex: 0
       productName:
       - Wireless Controller
-      - DUALSHOCK®4 USB Wireless Adaptor
+      - "DUALSHOCK\xAE4 USB Wireless Adaptor"
       manufacturer:
       - Sony Computer Entertainment
       - Sony Interactive Entertainment
@@ -858,9 +876,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -876,9 +894,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -894,9 +912,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -912,9 +930,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -930,9 +948,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -948,9 +966,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -966,9 +984,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -984,9 +1002,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1002,9 +1020,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1020,9 +1038,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1038,9 +1056,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1056,9 +1074,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1074,9 +1092,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1092,9 +1110,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 1
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1110,9 +1128,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 2
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1128,9 +1146,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 3
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1146,9 +1164,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 3
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1164,20 +1182,20 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 3
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
     variants: []
   linux:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 6
       buttonCount: 14
       disabled: 0
-      tag:
+      tag: 
       hatCount: 1
       alternateElementCounts: []
       manufacturer_useRegex: 0
@@ -1188,7 +1206,7 @@ MonoBehaviour:
       - Sony Interactive Entertainment
       productName:
       - Wireless Controller
-      - DUALSHOCK®4 USB Wireless Adaptor
+      - "DUALSHOCK\xAE4 USB Wireless Adaptor"
       systemName: []
       productGUID:
       - 05c4054c
@@ -1333,9 +1351,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1349,9 +1367,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1365,9 +1383,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1381,9 +1399,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1397,9 +1415,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1413,9 +1431,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1429,9 +1447,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1445,9 +1463,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1461,9 +1479,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1477,9 +1495,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1493,9 +1511,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1509,9 +1527,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1525,9 +1543,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1541,9 +1559,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 1
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1557,9 +1575,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 2
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1573,9 +1591,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 3
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1589,9 +1607,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 3
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1605,9 +1623,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 3
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -1617,7 +1635,7 @@ MonoBehaviour:
         axisCount: 12
         buttonCount: 14
         disabled: 0
-        tag:
+        tag: 
         hatCount: 1
         alternateElementCounts: []
         manufacturer_useRegex: 0
@@ -1769,9 +1787,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1785,9 +1803,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1801,9 +1819,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1817,9 +1835,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1833,9 +1851,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1849,9 +1867,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1865,9 +1883,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1881,9 +1899,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1897,9 +1915,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1913,9 +1931,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1929,9 +1947,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1945,9 +1963,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1961,9 +1979,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1977,9 +1995,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 1
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -1993,9 +2011,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 2
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2009,9 +2027,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 3
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2020,7 +2038,7 @@ MonoBehaviour:
         axisCount: 6
         buttonCount: 13
         disabled: 0
-        tag:
+        tag: 
         hatCount: 1
         alternateElementCounts: []
         manufacturer_useRegex: 0
@@ -2031,7 +2049,7 @@ MonoBehaviour:
         - Sony Interactive Entertainment
         productName:
         - Wireless Controller
-        - DUALSHOCK®4 USB Wireless Adaptor
+        - "DUALSHOCK\xAE4 USB Wireless Adaptor"
         systemName: []
         productGUID:
         - 05c4054c
@@ -2176,9 +2194,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2192,9 +2210,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2208,9 +2226,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2224,9 +2242,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2240,9 +2258,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2256,9 +2274,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2272,9 +2290,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2288,9 +2306,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2304,9 +2322,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2320,9 +2338,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2336,9 +2354,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2352,9 +2370,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2368,9 +2386,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 1
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2384,9 +2402,9 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 2
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -2400,19 +2418,19 @@ MonoBehaviour:
           sourceHatType: 0
           sourceHatDirection: 3
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
   windowsUWP:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 6
       buttonCount: 14
       disabled: 0
-      tag:
+      tag: 
       hatCount: 1
       alternateElementCounts: []
       manufacturer_useRegex: 0
@@ -2420,11 +2438,12 @@ MonoBehaviour:
       manufacturer: []
       productName:
       - Wireless Controller
-      - DUALSHOCK®4 USB Wireless Adaptor
+      - "DUALSHOCK\xAE4 USB Wireless Adaptor"
       productGUID:
       - 05c4054c
       - 0ba0054c
       - 09cc054c
+      deviceType: 0
     elements:
       axes:
       - elementIdentifier: 0
@@ -2564,9 +2583,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2580,9 +2599,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2596,9 +2615,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2612,9 +2631,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2628,9 +2647,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2644,9 +2663,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2660,9 +2679,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2676,9 +2695,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2692,9 +2711,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2708,9 +2727,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2724,9 +2743,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2740,9 +2759,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2756,9 +2775,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2772,9 +2791,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 1
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2788,9 +2807,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 2
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2804,9 +2823,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 3
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2820,9 +2839,9 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 3
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -2836,31 +2855,31 @@ MonoBehaviour:
         sourceHatType: 0
         sourceHatDirection: 3
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
     variants: []
   fallback_Windows:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName:
       - Wireless Controller
-      - DUALSHOCK®4 USB Wireless Adaptor
+      - "DUALSHOCK\xAE4 USB Wireless Adaptor"
       matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
+      matchUnityVersion_min: 
+      matchUnityVersion_max: 
       matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
+      matchSysVersion_min: 
+      matchSysVersion_max: 
     elements:
       axes:
       - elementIdentifier: 0
@@ -3008,9 +3027,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3032,9 +3051,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3056,9 +3075,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3080,9 +3099,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3104,9 +3123,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3128,9 +3147,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3152,9 +3171,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3176,9 +3195,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3200,9 +3219,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3224,9 +3243,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3248,9 +3267,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3272,9 +3291,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3296,9 +3315,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3320,9 +3339,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3344,9 +3363,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3368,9 +3387,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3392,9 +3411,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3416,53 +3435,53 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
     variants: []
   fallback_WindowsUWP:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName: []
       matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
+      matchUnityVersion_min: 
+      matchUnityVersion_max: 
       matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
+      matchSysVersion_min: 
+      matchSysVersion_max: 
     elements:
       axes: []
       buttons: []
     variants: []
   fallback_OSX:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName:
       - Sony Computer Entertainment Wireless Controller
-      - Sony Interactive Entertainment DUALSHOCK®4 USB Wireless Adaptor
+      - "Sony Interactive Entertainment DUALSHOCK\xAE4 USB Wireless Adaptor"
       - Unknown Wireless Controller
       - Sony Interactive Entertainment Wireless Controller
       matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
+      matchUnityVersion_min: 
+      matchUnityVersion_max: 
       matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
+      matchSysVersion_min: 
+      matchSysVersion_max: 
     elements:
       axes:
       - elementIdentifier: 0
@@ -3610,9 +3629,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3634,9 +3653,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3658,9 +3677,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3682,9 +3701,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3706,9 +3725,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3730,9 +3749,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3754,9 +3773,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3778,9 +3797,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3802,9 +3821,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3826,9 +3845,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3850,9 +3869,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3874,9 +3893,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3898,9 +3917,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3922,9 +3941,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3946,9 +3965,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -3970,33 +3989,33 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
     variants: []
   fallback_Linux:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 1
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName:
       - Sony Computer Entertainment Wireless Controller
       - Wireless Controller
-      - Sony Interactive Entertainment DUALSHOCK®4 USB Wireless Adaptor
-      - DUALSHOCK®4 USB Wireless Adaptor
+      - "Sony Interactive Entertainment DUALSHOCK\xAE4 USB Wireless Adaptor"
+      - "DUALSHOCK\xAE4 USB Wireless Adaptor"
       matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
+      matchUnityVersion_min: 
+      matchUnityVersion_max: 
       matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
+      matchSysVersion_min: 
+      matchSysVersion_max: 
     elements:
       axes:
       - elementIdentifier: 0
@@ -4144,9 +4163,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4168,9 +4187,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4192,9 +4211,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4216,9 +4235,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4240,9 +4259,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4264,9 +4283,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4288,9 +4307,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4312,9 +4331,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4336,9 +4355,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4360,9 +4379,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4384,9 +4403,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4408,9 +4427,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4432,9 +4451,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4456,9 +4475,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4480,9 +4499,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4504,34 +4523,34 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
     variants: []
   fallback_Linux_PreConfigured:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName:
       - Sony Computer Entertainment Wireless Controller
       - Wireless Controller
-      - Sony Interactive Entertainment DUALSHOCK®4 USB Wireless Adaptor
-      - DUALSHOCK®4 USB Wireless Adaptor
+      - "Sony Interactive Entertainment DUALSHOCK\xAE4 USB Wireless Adaptor"
+      - "DUALSHOCK\xAE4 USB Wireless Adaptor"
       - Sony Interactive Entertainment Wireless Controller
       matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
+      matchUnityVersion_min: 
+      matchUnityVersion_max: 
       matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
+      matchSysVersion_min: 
+      matchSysVersion_max: 
     elements:
       axes:
       - elementIdentifier: 0
@@ -4679,9 +4698,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4703,9 +4722,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4727,9 +4746,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4751,9 +4770,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4775,9 +4794,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4799,9 +4818,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4823,9 +4842,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4847,9 +4866,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4871,9 +4890,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4895,9 +4914,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4919,9 +4938,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4943,9 +4962,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4967,9 +4986,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -4991,9 +5010,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5015,9 +5034,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5039,9 +5058,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5052,19 +5071,19 @@ MonoBehaviour:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName:
       - Sony Computer Entertainment Wireless Controller
-      - Sony Interactive Entertainment DUALSHOCK®4 USB Wireless Adaptor
+      - "Sony Interactive Entertainment DUALSHOCK\xAE4 USB Wireless Adaptor"
       - Wireless Controller
       - Sony Interactive Entertainment Wireless Controller
       matchUnityVersion: 1
-      matchUnityVersion_min:
+      matchUnityVersion_min: 
       matchUnityVersion_max: 4.x
       matchSysVersion: 1
-      matchSysVersion_min:
+      matchSysVersion_min: 
       matchSysVersion_max: 25
     elements:
       axes:
@@ -5213,9 +5232,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5237,9 +5256,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5261,9 +5280,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5285,9 +5304,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5309,9 +5328,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5333,9 +5352,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5357,9 +5376,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5381,9 +5400,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5405,9 +5424,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5429,9 +5448,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5453,9 +5472,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5477,9 +5496,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5501,9 +5520,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5525,9 +5544,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5549,9 +5568,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5573,9 +5592,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -5590,14 +5609,14 @@ MonoBehaviour:
         productName_useRegex: 0
         productName:
         - Sony Computer Entertainment Wireless Controller
-        - Sony Interactive Entertainment DUALSHOCK®4 USB Wireless Adaptor
+        - "Sony Interactive Entertainment DUALSHOCK\xAE4 USB Wireless Adaptor"
         - Wireless Controller
         - Sony Interactive Entertainment Wireless Controller
         matchUnityVersion: 1
         matchUnityVersion_min: 5.x
-        matchUnityVersion_max:
+        matchUnityVersion_max: 
         matchSysVersion: 0
-        matchSysVersion_min:
+        matchSysVersion_min: 
         matchSysVersion_max: 25
       elements:
         axes:
@@ -5746,9 +5765,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -5770,9 +5789,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -5794,9 +5813,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -5818,9 +5837,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -5842,9 +5861,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -5866,9 +5885,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -5890,9 +5909,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -5914,9 +5933,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -5938,9 +5957,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -5962,9 +5981,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -5986,9 +6005,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6010,9 +6029,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6034,9 +6053,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6058,9 +6077,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6082,9 +6101,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6106,9 +6125,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6122,15 +6141,15 @@ MonoBehaviour:
         productName_useRegex: 0
         productName:
         - Sony Computer Entertainment Wireless Controller
-        - Sony Interactive Entertainment DUALSHOCK®4 USB Wireless Adaptor
+        - "Sony Interactive Entertainment DUALSHOCK\xAE4 USB Wireless Adaptor"
         - Wireless Controller
         - Sony Interactive Entertainment Wireless Controller
         matchUnityVersion: 1
         matchUnityVersion_min: 5.x
-        matchUnityVersion_max:
+        matchUnityVersion_max: 
         matchSysVersion: 0
         matchSysVersion_min: 26
-        matchSysVersion_max:
+        matchSysVersion_max: 
       elements:
         axes:
         - elementIdentifier: 0
@@ -6278,9 +6297,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6302,9 +6321,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6326,9 +6345,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6350,9 +6369,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6374,9 +6393,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6398,9 +6417,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6422,9 +6441,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6446,9 +6465,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6470,9 +6489,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6494,9 +6513,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6518,9 +6537,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6542,9 +6561,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6566,9 +6585,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6590,9 +6609,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6614,9 +6633,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -6638,149 +6657,69 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
   fallback_iOS:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName: []
       matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
+      matchUnityVersion_min: 
+      matchUnityVersion_max: 
       matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
-    elements:
-      axes: []
-      buttons: []
-    variants: []
-  fallback_Blackberry:
-    description:
-    matchingCriteria:
-      axisCount: 0
-      buttonCount: 0
-      disabled: 0
-      tag:
-      alwaysMatch: 0
-      productName_useRegex: 0
-      productName: []
-      matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
-      matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
-    elements:
-      axes: []
-      buttons: []
-    variants: []
-  fallback_WindowsPhone8:
-    description:
-    matchingCriteria:
-      axisCount: 0
-      buttonCount: 0
-      disabled: 0
-      tag:
-      alwaysMatch: 0
-      productName_useRegex: 0
-      productName: []
-      matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
-      matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
-    elements:
-      axes: []
-      buttons: []
-    variants: []
-  fallback_XBox360:
-    description:
-    matchingCriteria:
-      axisCount: 0
-      buttonCount: 0
-      disabled: 0
-      tag:
-      alwaysMatch: 0
-      productName_useRegex: 0
-      productName: []
-      matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
-      matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
+      matchSysVersion_min: 
+      matchSysVersion_max: 
     elements:
       axes: []
       buttons: []
     variants: []
   fallback_XBoxOne:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName: []
       matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
+      matchUnityVersion_min: 
+      matchUnityVersion_max: 
       matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
-    elements:
-      axes: []
-      buttons: []
-    variants: []
-  fallback_PS3:
-    description:
-    matchingCriteria:
-      axisCount: 0
-      buttonCount: 0
-      disabled: 0
-      tag:
-      alwaysMatch: 0
-      productName_useRegex: 0
-      productName: []
-      matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
-      matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
+      matchSysVersion_min: 
+      matchSysVersion_max: 
     elements:
       axes: []
       buttons: []
     variants: []
   fallback_PS4:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 1
       productName:
       - .*controller.*
       matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
+      matchUnityVersion_min: 
+      matchUnityVersion_max: 
       matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
+      matchSysVersion_min: 
+      matchSysVersion_max: 
     elements:
       axes:
       - elementIdentifier: 0
@@ -6928,9 +6867,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -6952,9 +6891,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -6976,9 +6915,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7000,9 +6939,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7024,9 +6963,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7048,9 +6987,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7072,9 +7011,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7096,9 +7035,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7120,9 +7059,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7144,9 +7083,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7168,9 +7107,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7192,9 +7131,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7216,9 +7155,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7240,104 +7179,64 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
     variants: []
   ps5:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName: []
     elements:
       axes: []
       buttons: []
-    controllerName:
+    controllerName: 
     variants: []
   fallback_PSM:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName: []
       matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
+      matchUnityVersion_min: 
+      matchUnityVersion_max: 
       matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
+      matchSysVersion_min: 
+      matchSysVersion_max: 
     elements:
       axes: []
       buttons: []
     variants: []
   fallback_PSVita:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName: []
       matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
+      matchUnityVersion_min: 
+      matchUnityVersion_max: 
       matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
-    elements:
-      axes: []
-      buttons: []
-    variants: []
-  fallback_Wii:
-    description:
-    matchingCriteria:
-      axisCount: 0
-      buttonCount: 0
-      disabled: 0
-      tag:
-      alwaysMatch: 0
-      productName_useRegex: 0
-      productName: []
-      matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
-      matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
-    elements:
-      axes: []
-      buttons: []
-    variants: []
-  fallback_WiiU:
-    description:
-    matchingCriteria:
-      axisCount: 0
-      buttonCount: 0
-      disabled: 0
-      tag:
-      alwaysMatch: 0
-      productName_useRegex: 0
-      productName: []
-      matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
-      matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
+      matchSysVersion_min: 
+      matchSysVersion_max: 
     elements:
       axes: []
       buttons: []
@@ -7353,15 +7252,15 @@ MonoBehaviour:
       productName_useRegex: 0
       productName:
       - Sony Computer Entertainment Wireless Controller
-      - Sony Interactive Entertainment DUALSHOCK®4 USB Wireless Adaptor
+      - "Sony Interactive Entertainment DUALSHOCK\xAE4 USB Wireless Adaptor"
       - Wireless Controller
       - Sony Interactive Entertainment Wireless Controller
       matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
+      matchUnityVersion_min: 
+      matchUnityVersion_max: 
       matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
+      matchSysVersion_min: 
+      matchSysVersion_max: 
     elements:
       axes:
       - elementIdentifier: 0
@@ -7509,9 +7408,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7533,9 +7432,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7557,9 +7456,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7581,9 +7480,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7605,9 +7504,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7629,9 +7528,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7653,9 +7552,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7677,9 +7576,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7701,9 +7600,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7725,9 +7624,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7749,9 +7648,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7773,9 +7672,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7797,9 +7696,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7821,9 +7720,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7845,9 +7744,9 @@ MonoBehaviour:
         unityHat_checkNeverPressed: 0
         unityHat_neverPressedZeroValues: {x: 0, y: 0}
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -7862,14 +7761,14 @@ MonoBehaviour:
         productName_useRegex: 0
         productName:
         - Sony Computer Entertainment Wireless Controller
-        - Sony Interactive Entertainment DUALSHOCK®4 USB Wireless Adaptor
+        - "Sony Interactive Entertainment DUALSHOCK\xAE4 USB Wireless Adaptor"
         - Wireless Controller
         - Sony Interactive Entertainment Wireless Controller
         matchUnityVersion: 0
         matchUnityVersion_min: 5.x
-        matchUnityVersion_max:
+        matchUnityVersion_max: 
         matchSysVersion: 0
-        matchSysVersion_min:
+        matchSysVersion_min: 
         matchSysVersion_max: 25
       elements:
         axes:
@@ -8018,9 +7917,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8042,9 +7941,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8066,9 +7965,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8090,9 +7989,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8114,9 +8013,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8138,9 +8037,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8162,9 +8061,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8186,9 +8085,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8210,9 +8109,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8234,9 +8133,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8258,9 +8157,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8282,9 +8181,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8306,9 +8205,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8330,9 +8229,9 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8354,44 +8253,24 @@ MonoBehaviour:
           unityHat_checkNeverPressed: 0
           unityHat_neverPressedZeroValues: {x: 0, y: 0}
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
-  fallback_RazerForgeTV:
-    description:
-    matchingCriteria:
-      axisCount: 0
-      buttonCount: 0
-      disabled: 0
-      tag:
-      alwaysMatch: 0
-      productName_useRegex: 0
-      productName: []
-      matchUnityVersion: 0
-      matchUnityVersion_min:
-      matchUnityVersion_max:
-      matchSysVersion: 0
-      matchSysVersion_min:
-      matchSysVersion_max:
-    elements:
-      axes: []
-      buttons: []
-    variants: []
   webGL:
     description: 'All: Chrome, Opera, Windows: Edge'
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName:
       - Wireless Controller
-      - DUALSHOCK®4 USB Wireless Adaptor
+      - "DUALSHOCK\xAE4 USB Wireless Adaptor"
       productGUID:
       - 05c4054c
       - 0ba0054c
@@ -8402,23 +8281,23 @@ MonoBehaviour:
         buttonCount: 18
       clientInfo:
       - browser: 1
-        browserVersionMin:
-        browserVersionMax:
+        browserVersionMin: 
+        browserVersionMax: 
         os: 0
-        osVersionMin:
-        osVersionMax:
+        osVersionMin: 
+        osVersionMax: 
       - browser: 3
-        browserVersionMin:
-        browserVersionMax:
+        browserVersionMin: 
+        browserVersionMax: 
         os: 0
-        osVersionMin:
-        osVersionMax:
+        osVersionMin: 
+        osVersionMax: 
       - browser: 6
-        browserVersionMin:
-        browserVersionMax:
+        browserVersionMin: 
+        browserVersionMax: 
         os: 1
-        osVersionMin:
-        osVersionMax:
+        osVersionMin: 
+        osVersionMax: 
     elements:
       axes:
       - elementIdentifier: 0
@@ -8551,9 +8430,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8566,9 +8445,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8581,9 +8460,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8596,9 +8475,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8611,9 +8490,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8626,9 +8505,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8641,9 +8520,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8656,9 +8535,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8671,9 +8550,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8686,9 +8565,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8701,9 +8580,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8716,9 +8595,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8731,9 +8610,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8746,9 +8625,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8761,9 +8640,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8776,9 +8655,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -8788,12 +8667,12 @@ MonoBehaviour:
         axisCount: 0
         buttonCount: 0
         disabled: 0
-        tag:
+        tag: 
         alwaysMatch: 0
         productName_useRegex: 0
         productName:
         - Wireless Controller
-        - DUALSHOCK®4 USB Wireless Adaptor
+        - "DUALSHOCK\xAE4 USB Wireless Adaptor"
         productGUID:
         - 05c4054c
         - 0ba0054c
@@ -8806,17 +8685,17 @@ MonoBehaviour:
           buttonCount: 14
         clientInfo:
         - browser: 2
-          browserVersionMin:
-          browserVersionMax:
+          browserVersionMin: 
+          browserVersionMax: 
           os: 2
-          osVersionMin:
-          osVersionMax:
+          osVersionMin: 
+          osVersionMax: 
         - browser: 2
-          browserVersionMin:
-          browserVersionMax:
+          browserVersionMin: 
+          browserVersionMax: 
           os: 3
-          osVersionMin:
-          osVersionMax:
+          osVersionMin: 
+          osVersionMax: 
       elements:
         axes:
         - elementIdentifier: 0
@@ -8949,9 +8828,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8964,9 +8843,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8979,9 +8858,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -8994,9 +8873,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9009,9 +8888,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9024,9 +8903,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9039,9 +8918,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9054,9 +8933,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9069,9 +8948,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9084,9 +8963,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9099,9 +8978,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9114,9 +8993,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9151,9 +9030,9 @@ MonoBehaviour:
             axisMax: 0
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9188,9 +9067,9 @@ MonoBehaviour:
             axisMax: 0
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9225,9 +9104,9 @@ MonoBehaviour:
             axisMax: 0
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9262,9 +9141,9 @@ MonoBehaviour:
             axisMax: 0
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9273,12 +9152,12 @@ MonoBehaviour:
         axisCount: 0
         buttonCount: 0
         disabled: 0
-        tag:
+        tag: 
         alwaysMatch: 0
         productName_useRegex: 0
         productName:
         - Wireless Controller
-        - DUALSHOCK®4 USB Wireless Adaptor
+        - "DUALSHOCK\xAE4 USB Wireless Adaptor"
         productGUID:
         - 05c4054c
         - 0ba0054c
@@ -9289,11 +9168,11 @@ MonoBehaviour:
           buttonCount: 13
         clientInfo:
         - browser: 2
-          browserVersionMin:
-          browserVersionMax:
+          browserVersionMin: 
+          browserVersionMax: 
           os: 3
-          osVersionMin:
-          osVersionMax:
+          osVersionMin: 
+          osVersionMax: 
       elements:
         axes:
         - elementIdentifier: 0
@@ -9426,9 +9305,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9441,9 +9320,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9456,9 +9335,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9471,9 +9350,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9486,9 +9365,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9501,9 +9380,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9516,9 +9395,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9531,9 +9410,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9546,9 +9425,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9561,9 +9440,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9576,9 +9455,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9591,9 +9470,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 1
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9606,9 +9485,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9621,9 +9500,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9636,9 +9515,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 1
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9647,12 +9526,12 @@ MonoBehaviour:
         axisCount: 0
         buttonCount: 0
         disabled: 0
-        tag:
+        tag: 
         alwaysMatch: 0
         productName_useRegex: 0
         productName:
         - Wireless Controller
-        - DUALSHOCK®4 USB Wireless Adaptor
+        - "DUALSHOCK\xAE4 USB Wireless Adaptor"
         productGUID:
         - 05c4054c
         - 0ba0054c
@@ -9663,11 +9542,11 @@ MonoBehaviour:
           buttonCount: 18
         clientInfo:
         - browser: 2
-          browserVersionMin:
-          browserVersionMax:
+          browserVersionMin: 
+          browserVersionMax: 
           os: 1
-          osVersionMin:
-          osVersionMax:
+          osVersionMin: 
+          osVersionMax: 
       elements:
         axes:
         - elementIdentifier: 0
@@ -9800,9 +9679,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9815,9 +9694,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9830,9 +9709,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9845,9 +9724,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9860,9 +9739,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9875,9 +9754,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9890,9 +9769,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9905,9 +9784,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9920,9 +9799,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9935,9 +9814,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9950,9 +9829,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9965,9 +9844,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -9976,12 +9855,12 @@ MonoBehaviour:
         axisCount: 0
         buttonCount: 0
         disabled: 0
-        tag:
+        tag: 
         alwaysMatch: 0
         productName_useRegex: 0
         productName:
         - Wireless Controller
-        - DUALSHOCK®4 USB Wireless Adaptor
+        - "DUALSHOCK\xAE4 USB Wireless Adaptor"
         productGUID:
         - 05c4054c
         - 0ba0054c
@@ -9992,11 +9871,11 @@ MonoBehaviour:
           buttonCount: 18
         clientInfo:
         - browser: 4
-          browserVersionMin:
-          browserVersionMax:
+          browserVersionMin: 
+          browserVersionMax: 
           os: 2
-          osVersionMin:
-          osVersionMax:
+          osVersionMin: 
+          osVersionMax: 
       elements:
         axes:
         - elementIdentifier: 0
@@ -10129,9 +10008,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10144,9 +10023,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10159,9 +10038,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10174,9 +10053,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10189,9 +10068,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10204,9 +10083,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10219,9 +10098,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10234,9 +10113,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10249,9 +10128,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10264,9 +10143,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10279,9 +10158,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10294,9 +10173,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10309,9 +10188,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10324,9 +10203,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10339,9 +10218,9 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
@@ -10354,31 +10233,19 @@ MonoBehaviour:
           customCalculationSourceData: []
           sourceAxisPole: 0
           requireMultipleButtons: 0
-          requiredButtons:
+          requiredButtons: 
           ignoreIfButtonsActive: 0
-          ignoreIfButtonsActiveButtons:
+          ignoreIfButtonsActiveButtons: 
           buttonInfo:
             _excludeFromPolling: 0
             _isPressureSensitive: 0
-  ouya:
-    description:
-    matchingCriteria:
-      axisCount: 0
-      buttonCount: 0
-      disabled: 0
-      tag:
-      alwaysMatch: 0
-    elements:
-      axes: []
-      buttons: []
-    variants: []
   xboxOne:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName: []
@@ -10387,12 +10254,12 @@ MonoBehaviour:
       buttons: []
     variants: []
   gameCore:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName: []
@@ -10403,15 +10270,15 @@ MonoBehaviour:
     elements:
       axes: []
       buttons: []
-    controllerName:
+    controllerName: 
     variants: []
   ps4:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 1
       productName:
@@ -10548,9 +10415,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10563,9 +10430,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10578,9 +10445,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10593,9 +10460,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10608,9 +10475,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10623,9 +10490,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10638,9 +10505,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10653,9 +10520,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10668,9 +10535,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10683,9 +10550,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10698,9 +10565,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10713,9 +10580,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10728,9 +10595,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10743,20 +10610,20 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
     variants: []
   nintendoSwitch:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName: []
@@ -10765,12 +10632,12 @@ MonoBehaviour:
       buttons: []
     variants: []
   stadia:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName:
@@ -10907,9 +10774,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10922,9 +10789,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10937,9 +10804,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10952,9 +10819,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10967,9 +10834,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10982,9 +10849,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -10997,9 +10864,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11012,9 +10879,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11027,9 +10894,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11042,9 +10909,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11057,9 +10924,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11072,9 +10939,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11087,9 +10954,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11102,26 +10969,26 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
     controllerName: PlayStation Controller
     variants: []
   internalDriver:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 6
       buttonCount: 14
       disabled: 0
-      tag:
+      tag: 
       alwaysMatch: 0
       productName_useRegex: 0
       productName:
       - Wireless Controller
-      - DUALSHOCK®4 USB Wireless Adaptor
+      - "DUALSHOCK\xAE4 USB Wireless Adaptor"
       vidPid:
       - vendorId: 1356
         productId: 1476
@@ -11286,9 +11153,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11304,9 +11171,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11322,9 +11189,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11340,9 +11207,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11358,9 +11225,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11376,9 +11243,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11394,9 +11261,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11412,9 +11279,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11430,9 +11297,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11448,9 +11315,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11466,9 +11333,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11484,9 +11351,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11502,9 +11369,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11520,9 +11387,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11538,9 +11405,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11556,9 +11423,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11574,9 +11441,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11592,9 +11459,9 @@ MonoBehaviour:
         customCalculationSourceData: []
         sourceAxisPole: 0
         requireMultipleButtons: 0
-        requiredButtons:
+        requiredButtons: 
         ignoreIfButtonsActive: 0
-        ignoreIfButtonsActiveButtons:
+        ignoreIfButtonsActiveButtons: 
         buttonInfo:
           _excludeFromPolling: 0
           _isPressureSensitive: 0
@@ -11603,12 +11470,12 @@ MonoBehaviour:
         sourceHatType: 0
     variants: []
   sdl2_Linux:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       hatCount: 0
       manufacturer_useRegex: 0
       productName_useRegex: 0
@@ -11622,12 +11489,12 @@ MonoBehaviour:
       buttons: []
     variants: []
   sdl2_Windows:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       hatCount: 0
       manufacturer_useRegex: 0
       productName_useRegex: 0
@@ -11641,12 +11508,12 @@ MonoBehaviour:
       buttons: []
     variants: []
   sdl2_OSX:
-    description:
+    description: 
     matchingCriteria:
       axisCount: 0
       buttonCount: 0
       disabled: 0
-      tag:
+      tag: 
       hatCount: 0
       manufacturer_useRegex: 0
       productName_useRegex: 0
@@ -11658,5 +11525,25 @@ MonoBehaviour:
     elements:
       axes: []
       buttons: []
+    variants: []
+  appleGCController:
+    description: 
+    matchingCriteria:
+      axisCount: 0
+      buttonCount: 0
+      disabled: 0
+      tag: 
+      alwaysMatch: 0
+      productCategory_useRegex: 0
+      productCategory: []
+      productName_useRegex: 0
+      productName: []
+      primaryProfileType: 0
+      profileSubTypes: 
+    elements:
+      axes: []
+      buttons: []
+      compoundElements: []
+    controllerName: 
     variants: []
   elementIdentifierIdCounter: 24
